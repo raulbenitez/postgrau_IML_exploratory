@@ -1,4 +1,4 @@
-# posgrau_IML_exploration
+# postgrado_IML_exploration
 
 Raúl Benítez, Universitat Politècnica de Catalunya
 
