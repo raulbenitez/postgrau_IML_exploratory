@@ -2,14 +2,14 @@
 
 Raúl Benítez, Universitat Politècnica de Catalunya
 
-Continguts sobre anàlisi exploratori de dades: 
+Contenidos sobre análisis exploratorio de datos:
 
-- Introducció a pandas per anàlisi de dades
-- Representació gràfica de dades
-- Models de regressió i sel.lecció de models
-- Algorismes d'agrupament de dades (clustering methods)
-- Reducció de dimensionalitat i anàlisi de components principals (PCA)
-- Sel.lecció d'atributs
+- Introducción a pandas para análisis de datos
+- Representación gráfica de datos
+- Modelos de regresión y selección de modelos
+- Algoritmos de agrupamiento de datos (clustering methods)
+- Reducción de dimensionalidad y análisis de componentes principales (PCA)
+- Selección de atributos
 
 
 
