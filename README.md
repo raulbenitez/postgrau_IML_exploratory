@@ -1,4 +1,4 @@
-# postgrado_IML_exploration
+# postgrado IML: Bloque de análisis exploratorio de datos
 
 Raúl Benítez, Universitat Politècnica de Catalunya
 
