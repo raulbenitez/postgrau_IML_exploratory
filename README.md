@@ -2,6 +2,8 @@
 
 Raúl Benítez, Universitat Politècnica de Catalunya
 
+contacto: raul.benitez@upc.edu
+
 Contenidos sobre análisis exploratorio de datos, distribuidos en tres carpetas:
 
 /EXPLORATORY:
